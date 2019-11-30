@@ -1,5 +1,5 @@
 # CV compare
-its simple CV to job description compare tool
+It is simple CV to job description compare tool
 Try at https://tak2cvcompare.herokuapp.com/
 ## Inspiration
 Use **AI** to Compare the CV to the job description to beat the ATS (Applicant tracking systems)
